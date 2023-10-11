@@ -2,12 +2,16 @@ import React from 'react'
 
 function Feed() {
   return (
-    <div>
-     {/* section */}
-     {/* stories */}
-     {/* posts */}
-
-    </div>
+    <main>
+     <section>
+         {/* stories */}
+         {/* posts */}
+    </section>
+    <section>
+         {/* Mini profile */}
+         {/* Suggerstions */}
+    </section>
+    </main>
   )
 }
 
